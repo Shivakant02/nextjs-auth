@@ -39,7 +39,7 @@ export default function LoginPage() {
                  className=" p-2 border border-gray-300 rounded-lg mb-4 focus:outline-none focus:border-gray-600"
             >login here</button>
             <Link href="/signup"> 
-             Sognup here</Link>
+             Signup here</Link>
         </div>
     )
 }
